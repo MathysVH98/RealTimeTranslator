@@ -8,6 +8,14 @@
 - **Real-Time Translation:** Translations are processed and displayed instantly.
 - **User-Friendly Interface:** The application features a clean and simple interface with separate text boxes for input and output.
 - **Copy Functionality:** Easily copy the translated text to your clipboard.
+- Abbreviations used in dropdown menu:
+  - en = English
+  - es = Spanish
+  - fr = French
+  - de = German
+  - zh = Chinese
+  - af = Afrikaans
+  - hi = Hindi
 
 ## Requirements
 - **Visual Studio 2019 or later**
