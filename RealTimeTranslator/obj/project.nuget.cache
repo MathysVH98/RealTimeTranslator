@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HZmix0rnf6Jg1fwx66lkocviIxbPaSZ1NN1aDB+d9ln7gelpotUj/9/9AAnc03o1+jGwb52kJKH87ai+WcYCGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Translator app\\RealTimeTranslator\\RealTimeTranslator\\RealTimeTranslator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tjvan\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\tjvan\\.nuget\\packages\\restsharp\\111.4.1\\restsharp.111.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}
